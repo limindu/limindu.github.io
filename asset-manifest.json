@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.203555e7.chunk.css",
-    "main.js": "/static/js/main.7b8c1875.chunk.js",
-    "main.js.map": "/static/js/main.7b8c1875.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d1c35b18.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d1c35b18.js.map",
-    "static/js/2.ef112aea.chunk.js": "/static/js/2.ef112aea.chunk.js",
-    "static/js/2.ef112aea.chunk.js.map": "/static/js/2.ef112aea.chunk.js.map",
+    "main.css": "/static/css/main.46feee76.chunk.css",
+    "main.js": "/static/js/main.0489983e.chunk.js",
+    "main.js.map": "/static/js/main.0489983e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c2310622.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c2310622.js.map",
+    "static/js/2.75823af5.chunk.js": "/static/js/2.75823af5.chunk.js",
+    "static/js/2.75823af5.chunk.js.map": "/static/js/2.75823af5.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.203555e7.chunk.css.map": "/static/css/main.203555e7.chunk.css.map",
-    "static/js/2.ef112aea.chunk.js.LICENSE.txt": "/static/js/2.ef112aea.chunk.js.LICENSE.txt",
-    "static/media/twitter-logo.a8a75254.svg": "/static/media/twitter-logo.a8a75254.svg"
+    "static/css/main.46feee76.chunk.css.map": "/static/css/main.46feee76.chunk.css.map",
+    "static/js/2.75823af5.chunk.js.LICENSE.txt": "/static/js/2.75823af5.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.d89d9a86.svg": "/static/media/twitter-logo.d89d9a86.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1c35b18.js",
-    "static/js/2.ef112aea.chunk.js",
-    "static/css/main.203555e7.chunk.css",
-    "static/js/main.7b8c1875.chunk.js"
+    "static/js/runtime-main.c2310622.js",
+    "static/js/2.75823af5.chunk.js",
+    "static/css/main.46feee76.chunk.css",
+    "static/js/main.0489983e.chunk.js"
   ]
 }
